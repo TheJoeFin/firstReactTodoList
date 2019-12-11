@@ -1,2 +1,0 @@
-# firstReactTodoList
-Created with CodeSandbox
